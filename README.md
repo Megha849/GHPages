@@ -44,7 +44,7 @@ Watch this video to see Hygieia in action:
 
 ## Hygieia Architecture
 
-[!Architecture Overview](/images/architecture.png)
+![Architecture Overview](/images/architecture.png)
 
 ## Quick Setup Instructions
 
@@ -63,7 +63,7 @@ A view is a primary mechanism for displaying data. The Hygieia dashboard offers 
 ![Widget View](/images/hygiea-screenshot.jpg)
 
 ### Pipeline View
-![Pipeline View](/images/hygieia-product-dashboard.png)
+![Pipeline View](/images/pipeline_view.png)
 
 ## Contribute
 
