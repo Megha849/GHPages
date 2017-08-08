@@ -28,7 +28,7 @@ The health of the continuous delivery pipeline, from code commit to production d
 Hygieia dashboards are customizable; you can select your story tracking, code repository, build, quality, and deployment tools. In addition, Plugins  are available to enable customizations.
 
 Watch this video to see Hygieia in action:
-[![Hygieia℠ Is AWESOME](/images/video-shot.png)](https://www.youtube.com/watch?v=SoNTA78j0tc "Hygieia Is AWESOME"){:height="400px" width="400px"}
+[![Hygieia℠ Is AWESOME](/images/video-shot.png)](https://www.youtube.com/watch?v=SoNTA78j0tc "Hygieia Is AWESOME")
 
 ## Objectives
 * Automate Development Environment Setup
@@ -44,7 +44,7 @@ Watch this video to see Hygieia in action:
 
 ## Hygieia Architecture
 
-![Architecture Overview](/images/architecture.png){:height="400px" width="400px"}
+<img width="650" src="/images/architecture.png" alt="Architecture Overview">
 
 ## Quick Setup Instructions
 
