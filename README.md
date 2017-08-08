@@ -15,8 +15,8 @@
 - [Features](#features)
 - [Hygieia Architecture](#hygieia-architecture)
 - [Quick Setup Instructions](#quick-setup-instructions)
-- [Hygieia Dashboard - A Snapshot](#hygieia-dashboard-a-snapshot)
-- [Contributing](#contributing)
+- [Hygieia Dashboard - A Snapshot](#hygieia-dashboard---a-snapshot)
+- [Contribute](#contribute)
 - [Links](#links)
 
 ## About Hygieia
