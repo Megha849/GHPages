@@ -4,10 +4,11 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Join the chat at https://gitter.im/capitalone/Hygieia](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-<img width="600" src="/images/hygieia_b.png"> <a href="https://info.blackducksoftware.com/OpenSourceRookies2015.html" > <img src="/images/Rookies_Award_Badge.png" width="100" align="right" alt="Hygieia℠ is now BlackDuck 2015 OpenSource Rookie of the Year"></a>
+<img width="650" src="/images/hygieia_b.png"> <a href="https://info.blackducksoftware.com/OpenSourceRookies2015.html" > <img src="/images/Rookies_Award_Badge.png" width="100" align="right" alt="Hygieia℠ is now BlackDuck 2015 OpenSource Rookie of the Year"></a>
+**Pronunciation: _hi-gee-ya_ (Origin: Greek)**
 
-Contents
---------
+# Contents
+
 - [About Hygieia](#about-hygieia)
 - [Objectives](#objectives)
 - [Features](#features)
@@ -18,13 +19,12 @@ Contents
 - [Links](#links)
 
 ## About Hygieia
-**Pronunciation: _hi-gee-ya_ (Origin: Greek)**
 
-Hygieia dashboard is a single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline. In addition, it provides a continuous feedback loop for any DevOps organization.
+Hygieia is a single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline. In addition, it provides a continuous feedback loop for any DevOps organization.
 
-Hygieia dashboards are customizable: you can select your story tracking tools, code repository, users can select VersionOne or Jira for story tracking, Subversion or GitHub as repositories, Jenkins/Hudson for builds, Selenium and SonarQube for quality, uDeploy and Jenkins for deployment. More plugins are available.
+The health of the continuous delivery pipeline, from code commit to production deployment, with all the necessary information around health and quality of the software, is essential for any DevOps Organization. Hygieia dashboards assist in achieving process transparency and therefore help establish feedback loops, to implement the underlying concepts of lean and DevOps. The dashboard contains interactive elements that enable drilling-down and linking to the connected DevOps tools.
 
-Hygieia dashboards assist in achieving process transparency and therefore help establish feedback loops that are the underlying concept of lean and DevOps. They contain interactive elements which enable drill-down and linking to the connected tools.
+Hygieia dashboards are customizable; you can select your story tracking, code repository, build, quality, and deployment tools. In addition, Plugins  are available to enable customizations.
 
 Watch this video to see Hygieia in action:
 [![Hygieia℠ Is AWESOME](/images/video-shot.png)](https://www.youtube.com/watch?v=SoNTA78j0tc "Hygieia Is AWESOME")
@@ -54,17 +54,17 @@ Hygieia layers:
 * Collectors
 
 ## Hygieia Dashboard - A Snapshot
-A view is a primary mechanism for displaying data. The Hygieia dashboard offers comprehensive overview through two view methods:
-- **Widget view** - Widget view showcases more detailed information: features in the current sprint, code contribution activities, continuous integration activities, code analysis, security analysis, unit and functional test results, and deployment and environment status.
-- **Pipeline view** - The pipeline view pulls back to show each component’s lifecycle progression through the development, testing, and deployment stages.
+A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
+- **Widget View** - Widget view showcases detailed information, which include features in the current sprint, code contribution activities, continuous integration activities, code analysis, security analysis, unit and functional test results, and deployment and environment status.
+- **Pipeline View** - The pipeline view pulls back to show each component’s lifecycle progression through the development, testing, and deployment stages.
 
 ### Widget View
-[!Widget View](/images/hygiea-screenshot.jpg)
+![Widget View](/images/hygiea-screenshot.jpg)
 
 ### Pipeline View
-[!Pipeline View](/images/hygieia-product-dashboard.png)
+![Pipeline View](/images/hygieia-product-dashboard.png)
 
-## Contributing
+## Contribute
 
 We welcome Your interest in Capital One’s Open Source Projects (the “Project”). Any Contributor to the Project must accept and sign an Agreement indicating agreement to the license terms below. Except for the license granted in this Agreement to Capital One and to recipients of software distributed by Capital One, You reserve all right, title, and interest in and to Your Contributions; this Agreement does not impact Your rights to use Your own Contributions for any other purpose.
 
@@ -76,5 +76,4 @@ This project adheres to the [Open Code of Conduct][code-of-conduct]. By particip
 [code-of-conduct]: http://www.capitalone.io/codeofconduct/
 
 ## Links
-- Documentation
-- Installation and Setup Instructions
+- [Documentation](http://www.capitalone.io/Hygieia/getting_started.html)
