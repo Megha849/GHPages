@@ -28,7 +28,7 @@ The health of the continuous delivery pipeline, from code commit to production d
 Hygieia dashboards are customizable; you can select your story tracking, code repository, build, quality, and deployment tools. In addition, Plugins  are available to enable customizations.
 
 Watch this video to see Hygieia in action:
-[![Hygieia℠ Is AWESOME](/images/video-shot.png)](https://www.youtube.com/watch?v=SoNTA78j0tc "Hygieia Is AWESOME")
+<img width="650" src="/images/video-shot.png" alt="Hygieia℠ Is AWESOME"> <a href="https://www.youtube.com/watch?v=SoNTA78j0tc">
 
 ## Objectives
 * Automate Development Environment Setup
@@ -60,10 +60,10 @@ A view is a primary mechanism for displaying data. The Hygieia dashboard offers 
 - **Pipeline View** - The pipeline view pulls back to show each component’s lifecycle progression through the development, testing, and deployment stages.
 
 ### Widget View
-![Widget View](/images/hygiea-screenshot.jpg)
+<img width="650" src="/images/hygiea-screenshot.jpg" alt="Widget View">
 
 ### Pipeline View
-![Pipeline View](/images/pipeline_view.png)
+<img width="650" src="/images/pipeline_view.png" alt="Pipeline View">
 
 ## Contribute
 
