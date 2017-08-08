@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Join the chat at https://gitter.im/capitalone/Hygieia](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-<img width="600" src="/images/hygieia_b.png"> <a href="https://info.blackducksoftware.com/OpenSourceRookies2015.html" > <img src="/images/Rookies_Award_Badge.png" width="100" alt="Hygieia℠ is now BlackDuck 2015 OpenSource Rookie of the Year"></a>
+<img width="600" src="/images/hygieia_b.png"> <a href="https://info.blackducksoftware.com/OpenSourceRookies2015.html" > <img src="/images/Rookies_Award_Badge.png" width="100" align="right" alt="Hygieia℠ is now BlackDuck 2015 OpenSource Rookie of the Year"></a>
 
 Contents
 --------
@@ -18,7 +18,7 @@ Contents
 - [Links](#links)
 
 ## About Hygieia
-**Pronunciation: _hi-gee-ya_(Origin: Greek)**
+**Pronunciation: _hi-gee-ya_ (Origin: Greek)**
 
 Hygieia dashboard is a single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline. In addition, it provides a continuous feedback loop for any DevOps organization.
 
