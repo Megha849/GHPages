@@ -5,6 +5,7 @@
 [![Join the chat at https://gitter.im/capitalone/Hygieia](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
 <img width="650" src="/images/hygieia_b.png"> <a href="https://info.blackducksoftware.com/OpenSourceRookies2015.html" > <img src="/images/Rookies_Award_Badge.png" width="100" align="right" alt="Hygieia℠ is now BlackDuck 2015 OpenSource Rookie of the Year"></a>
+
 **Pronunciation: _hi-gee-ya_ (Origin: Greek)**
 
 # Contents
