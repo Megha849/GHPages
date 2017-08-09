@@ -48,7 +48,7 @@ Watch this video to see Hygieia in action:
 
 ## Setup Instructions
 
-**1. Configure the Components** - 
+**1. Configure the Components** - To run Hygieia, install the following components:
 
    - **Database Configuration** - Hygieia uses MongoDB as the database for storage and retrieval of data. To configure the database for each of the supported paltforms, refer to the [Database Setup Instructions](http://www.capitalone.io/Hygieia/database.html).
   
@@ -56,12 +56,14 @@ Watch this video to see Hygieia in action:
 	
    - **UI Configuration** - 
 	
-   - **Tool Collectors** - The Tool Collecters fetch data that reflects on your Hygieia Dashboard. You can choose to install the collectors applicable to your DevOps tool set from the [Hygieia Collectors Inventory](https://github.com/capitalone/Hygieia/blob/master/collectors/README.md).
+   - **Tool Collectors** - The Tool Collecters fetch data from the your DevOps tools and reflect this data on your Hygieia Dashboard. You can choose to install the collectors applicable to your DevOps tool set from the [Hygieia Collectors Inventory](https://github.com/capitalone/Hygieia/blob/master/collectors/README.md).
 
   - **Plugins/WebHook** - 
   
-**2. Build** 
+**2. Build Hygieia** - 
+
 **3. Test the Installation**
+
 ## Hygieia Dashboard - A Snapshot
 A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
 - **Widget View** - Widget view showcases detailed information, which include features in the current sprint, code contribution activities, continuous integration activities, code analysis, security analysis, unit and functional test results, and deployment and environment status.
