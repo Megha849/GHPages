@@ -48,7 +48,7 @@ Watch this video to see Hygieia in action:
 
 ## Setup Instructions
 
-**1. Configure the Components** - To run Hygieia, configure the following components:
+**1. Configure the Components** - The following components are required to run Hygieia:
 
    - **Database Configuration** - Hygieia uses MongoDB as the database for storage and retrieval of data. To configure the database for each of the supported paltforms, refer to the [Database Setup Instructions](http://www.capitalone.io/Hygieia/database.html).
   
