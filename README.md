@@ -52,16 +52,16 @@ Watch this video to see Hygieia in action:
 
    - **Database Configuration** - Hygieia uses MongoDB as the database for storage and retrieval of data. To configure the database for each of the supported paltforms, refer to the [Database Setup Instructions](http://www.capitalone.io/Hygieia/database.html).
   
-   - **API Configuration** - Hygieia API contains all the common REST API services that work with the source system data (collected by service tasks). The Hygieia API layer is an abstraction of the local and source system data layer. To congifure the API layer, refer the [API Configuration](https://github.com/capitalone/Hygieia/blob/gh-pages/pages/hygieia/API/api.md).
+   - **API Configuration** - Hygieia API contains all the common REST API services that work with the source system data (collected by service tasks). The Hygieia API layer is an abstraction of the local and source system data layer. To configure the API layer, refer the [API Configuration](https://github.com/capitalone/Hygieia/blob/gh-pages/pages/hygieia/API/api.md).
 	
    - **UI Configuration** - 
 	
    - **Tool Collectors** - The Tool Collecters fetch data from the your DevOps tools and reflect this data on your Hygieia Dashboard. You can choose to install the collectors applicable to your DevOps tool set from the [Hygieia Collectors Inventory](https://github.com/capitalone/Hygieia/blob/master/collectors/README.md).
 
    - **Plugins/WebHook Configuration** -  The Hygieia-Jenkins plugin is used to publish data from Jenkins to Hygieia. To configure, refer to the [Hygieia-Jenkins Plugin](https://github.com/capitalone/Hygieia/tree/master/hygieia-jenkins-plugin) document.
-   - **Proxy Configuration** - Hygieia supports proxy authentication for working behind corporate firewalls. To configure, refer to the Proxy Configuration section in [Setup Instructions](Setup.md)
+   - **Proxy Configuration** - Hygieia supports proxy authentication for working behind corporate firewalls. To configure, refer to the Proxy Configuration section in [Setup Instructions](Setup.md).
   
-**2. Build Hygieia**
+**2. Build Hygieia** - 
 
 **3. Test the Installation**
 
@@ -75,6 +75,10 @@ A view is a primary mechanism for displaying data. The Hygieia dashboard offers 
 
 ### Pipeline View
 <img width="650" src="/images/pipeline_view.png" alt="Pipeline View">
+
+### Product View
+
+### Cloud View
 
 ## Contribute
 
