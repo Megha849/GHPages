@@ -39,20 +39,23 @@ Watch this video to see Hygieia in action:
 - **Visual Delivery Pipeline** - Use the pipeline view to visualize the status of the entire delivery pipeline and the components’ lifecycle progression.
 - **Team Dashboard** - Monitor work items, code repo, builds, quality items (unit tests, security coverage), and deployments in a single dashboard.
 - **Real-time Status** - Monitor quality, productivity, and work in process on a real-time basis within the dashboard.
-- **Configurable View** - Setup the dashboard to display the widgets that matter most to your project, which helps amplify and shorten to feedback loop.
+- **Configurable View** - Configure the dashboard to display the widgets that matter most to your project, which helps amplify and shorten to feedback loop.
 - **Open Source** - Hygieia is open source and free for everyone to use. We also encourage external users to contribute to the project.
 
 ## Hygieia Architecture
 
 <img width="650" src="/images/architecture.png" alt="Architecture Overview">
 
-## Quick Setup Instructions
+## Setup Instructions
 
-Hygieia layers:
-* DB
-* API
-* UI
-* Collectors
+The following components are required to run Hygieia℠:
+- Database
+- API Layer
+- UI Layer
+- Tool Collectors
+- Plugins/WebHook
+
+To install and run Hygieia, follow the setup instructions given [here](/Setup.md).
 
 ## Hygieia Dashboard - A Snapshot
 A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
