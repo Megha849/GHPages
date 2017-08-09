@@ -40,7 +40,7 @@ Watch this video to see Hygieia in action:
 - **Team Dashboard** - Monitor work items, code repo, builds, quality items (unit tests, security coverage), and deployments in a single dashboard.
 - **Real-time Status** - Monitor quality, productivity, and work in process on a real-time basis within the dashboard.
 - **Configurable View** - Configure the dashboard to display the widgets that matter most to your project, which helps amplify and shorten to feedback loop.
-- **Open Source** - Hygieia is open source and free for everyone to use. We also encourage external users to contribute to the project.
+- **Open Source** - Hygieia is open source and free for everyone to use. We also encourage external users to contribute to the project. Refer to the [Contribute](#contribute) section to begin contributing to the project.
 
 ## Hygieia Architecture
 
@@ -48,15 +48,15 @@ Watch this video to see Hygieia in action:
 
 ## Setup Instructions
 
-The following components are required to run Hygieia℠:
-- Database
-- API Layer
-- UI Layer
-- Tool Collectors
-- Plugins/WebHook
-
-<p>To install and run Hygieia, follow the setup instructions given <a href="/docs/Setup.md">here</a>.</p>
-
+1. Configure the Components
+To run Hygieia, configure the following components:
+- **Database Configuration** - Hygieia uses MongoDB as the database for storage and retrieval of data. To configure the database for each of the supported paltforms, refer to the [Database Setup Instructions](http://www.capitalone.io/Hygieia/database.html).
+- **API Configuration** - Hygieia API contains all the common REST API services that work with the source system data (collected by service tasks). The Hygieia API layer is an abstraction of the local and source system data layer. To congifure the API layer, refer the [API Configuration] (https://github.com/capitalone/Hygieia/blob/gh-pages/pages/hygieia/API/api.md)
+- **UI Configuration** - 
+- **Tool Collectors** - The Tool Collecters fetch data that reflects on your Hygieia Dashboard. You can choose to install the collectors applicable to your DevOps tool set from the [Hygieia Collectors inventory](https://github.com/capitalone/Hygieia/blob/master/collectors/README.md).
+- **Plugins/WebHook** - 
+2. Build
+3. Test the Installation
 ## Hygieia Dashboard - A Snapshot
 A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
 - **Widget View** - Widget view showcases detailed information, which include features in the current sprint, code contribution activities, continuous integration activities, code analysis, security analysis, unit and functional test results, and deployment and environment status.
