@@ -1,5 +1,3 @@
-![Image](/UI/src/assets/img/hygieia_b.png)
---
 
 ### Build Hygieia℠
 Needs Java 1.8.
