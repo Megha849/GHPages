@@ -78,4 +78,4 @@ This project adheres to the [Open Code of Conduct][code-of-conduct]. By particip
 
 ## Links
 - [Documentation](http://www.capitalone.io/Hygieia/getting_started.html)
-- ![Underlying Frameworks and Technologies](/images/4.png)
+- <img width="650" src="/images/4.png"> <a href="/images/4.png">Underlying Projects and Technologies</a>
