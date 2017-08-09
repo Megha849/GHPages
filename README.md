@@ -59,9 +59,9 @@ Watch this video to see Hygieia in action:
    - **Tool Collectors** - The Tool Collecters fetch data from the your DevOps tools and reflect this data on your Hygieia Dashboard. You can choose to install the collectors applicable to your DevOps tool set from the [Hygieia Collectors Inventory](https://github.com/capitalone/Hygieia/blob/master/collectors/README.md).
 
    - **Plugins/WebHook Configuration** -  The Hygieia-Jenkins plugin is used to publish data from Jenkins to Hygieia. To configure, refer to the [Hygieia-Jenkins Plugin](https://github.com/capitalone/Hygieia/tree/master/hygieia-jenkins-plugin) document.
-   - **Proxy Configuration** - Hygieia supports proxy authentication for working behind corporate firewalls. To configure, refer to t
+   - **Proxy Configuration** - Hygieia supports proxy authentication for working behind corporate firewalls. To configure, refer to the Proxy Configuration section in [Setup Instructions](Setup.md)
   
-**2. Build Hygieia** - 
+**2. Build Hygieia**
 
 **3. Test the Installation**
 
