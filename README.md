@@ -55,7 +55,7 @@ The following components are required to run Hygieia℠:
 - Tool Collectors
 - Plugins/WebHook
 
-To install and run Hygieia, 
+To install and run Hygieia, follow the instructions given here[here](Setup.md).
 
 ## Hygieia Dashboard - A Snapshot
 A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
