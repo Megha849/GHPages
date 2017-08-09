@@ -14,7 +14,7 @@
 - [Objectives](#objectives)
 - [Features](#features)
 - [Hygieia Architecture](#hygieia-architecture)
-- [Quick Setup Instructions](#quick-setup-instructions)
+- [Setup Instructions](#setup-instructions)
 - [Hygieia Dashboard - A Snapshot](#hygieia-dashboard---a-snapshot)
 - [Contribute](#contribute)
 - [Links](#links)
@@ -78,3 +78,4 @@ This project adheres to the [Open Code of Conduct][code-of-conduct]. By particip
 
 ## Links
 - [Documentation](http://www.capitalone.io/Hygieia/getting_started.html)
+- ![Underlying Frameworks and Technologies](/images/4.png)
