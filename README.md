@@ -28,7 +28,7 @@ The health of the continuous delivery pipeline, from code commit to production d
 Hygieia dashboards are customizable; you can select your story tracking, code repository, build, quality, and deployment tools. In addition, Plugins  are available to enable customizations.
 
 Watch this video to see Hygieia in action:
-<img width="650" src="/images/video-shot.png" alt="Hygieia℠ Is AWESOME"> <a href="https://www.youtube.com/watch?v=SoNTA78j0tc">
+<img width="650" src="/images/video-shot.png" alt="Hygieia℠ Is AWESOME"> <a href="https://www.youtube.com/watch?v=SoNTA78j0tc"></a>
 
 ## Objectives
 * Automate Development Environment Setup
@@ -55,8 +55,7 @@ The following components are required to run Hygieia℠:
 - Tool Collectors
 - Plugins/WebHook
 
-<p>To install and run Hygieia, follow the setup instructions:</p>
-<a href="/docs/Setup.md">Setup Instructions</a>
+<p>To install and run Hygieia, follow the setup instructions given <a href="/docs/Setup.md">here</a></p>
 
 ## Hygieia Dashboard - A Snapshot
 A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
