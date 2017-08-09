@@ -69,6 +69,8 @@ Watch this video to see Hygieia in action:
 A view is a primary mechanism for displaying data. The Hygieia dashboard offers a comprehensive overview through two view methods:
 - **Widget View** - Widget view showcases detailed information, which include features in the current sprint, code contribution activities, continuous integration activities, code analysis, security analysis, unit and functional test results, and deployment and environment status.
 - **Pipeline View** - The pipeline view pulls back to show each component’s lifecycle progression through the development, testing, and deployment stages.
+- **Product View** - 
+- **Cloud View** - 
 
 ### Widget View
 <img width="650" src="/images/hygiea-screenshot.jpg" alt="Widget View">
