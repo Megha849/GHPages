@@ -48,17 +48,18 @@ Watch this video to see Hygieia in action:
 
 ## Setup Instructions
 
-**1. Configure the Components** - To run Hygieia, install the following components:
+**1. Configure the Components** - To run Hygieia, configure the following components:
 
    - **Database Configuration** - Hygieia uses MongoDB as the database for storage and retrieval of data. To configure the database for each of the supported paltforms, refer to the [Database Setup Instructions](http://www.capitalone.io/Hygieia/database.html).
   
-   - **API Configuration** - Hygieia API contains all the common REST API services that work with the source system data (collected by service tasks). The Hygieia API layer is an abstraction of the local and source system data layer. To congifure the API layer, refer the [API Configuration](https://github.com/capitalone/Hygieia/blob/gh-pages/pages/hygieia/API/api.md)
+   - **API Configuration** - Hygieia API contains all the common REST API services that work with the source system data (collected by service tasks). The Hygieia API layer is an abstraction of the local and source system data layer. To congifure the API layer, refer the [API Configuration](https://github.com/capitalone/Hygieia/blob/gh-pages/pages/hygieia/API/api.md).
 	
    - **UI Configuration** - 
 	
    - **Tool Collectors** - The Tool Collecters fetch data from the your DevOps tools and reflect this data on your Hygieia Dashboard. You can choose to install the collectors applicable to your DevOps tool set from the [Hygieia Collectors Inventory](https://github.com/capitalone/Hygieia/blob/master/collectors/README.md).
 
-  - **Plugins/WebHook** - 
+   - **Plugins/WebHook Configuration** -  The Hygieia-Jenkins plugin is used to publish data from Jenkins to Hygieia. To configure, refer to the [Hygieia-Jenkins Plugin](https://github.com/capitalone/Hygieia/tree/master/hygieia-jenkins-plugin) document.
+   - **Proxy Configuration** - Hygieia supports proxy authentication for working behind corporate firewalls. To configure, refer to t
   
 **2. Build Hygieia** - 
 
