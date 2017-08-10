@@ -1,27 +1,24 @@
-<h1 align="center">choo</h1>
+<h1 align="center">Hygieia</h1>
 
 <div align="center">
-  :steam_locomotive::train::train::train::train::train:
+  <strong>Hygieia is AWESOME!</strong>
 </div>
 <div align="center">
-  <strong>Fun functional programming</strong>
-</div>
-<div align="center">
-  A <code>4kb</code> framework for creating sturdy frontend applications
+  A single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline.
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Stability -->
-  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
-    <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
-      alt="API stability" />
+  <!-- Build Status -->
+  <a href="https://travis-ci.org/capitalone/Hygieia.svg?branch=master">
+    <img src="https://travis-ci.org/capitalone/Hygieia.svg?branch=master"
+      alt="Build Status" />
   </a>
-  <!-- NPM version -->
-  <a href="https://npmjs.org/package/choo">
-    <img src="https://img.shields.io/npm/v/choo.svg?style=flat-square"
-      alt="NPM version" />
+  <!-- Codacy Badge -->
+  <a href="https://www.codacy.com/app/amit-mawkin/Hygieia">
+    <img src="https://api.codacy.com/project/badge/grade/de1a2a557f8e458e9a959be8c2e7fcba"
+      alt="Codacy Badge" />
   </a>
   <!-- Build Status -->
   <a href="https://travis-ci.org/choojs/choo">
