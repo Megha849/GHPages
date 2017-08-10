@@ -44,7 +44,7 @@
     </a>
     <span> | </span>
     <a href="#">
-      Setup Instructions
+      Setup Hygieia
     </a>
     <span> | </span>
     <a href="#">
