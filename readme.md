@@ -20,25 +20,20 @@
     <img src="https://api.codacy.com/project/badge/grade/de1a2a557f8e458e9a959be8c2e7fcba"
       alt="Codacy Badge" />
   </a>
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/choojs/choo">
-    <img src="https://img.shields.io/travis/choojs/choo/master.svg?style=flat-square"
-      alt="Build Status" />
+  <!-- Maven Central -->
+  <a href="http://search.maven.org/#search%7Cga%7C1%7Ccapitalone">
+    <img src="https://img.shields.io/maven-central/v/com.capitalone.dashboard/Hygieia.svg"
+      alt="Maven Central" />
   </a>
-  <!-- Test Coverage -->
-  <a href="https://codecov.io/github/choojs/choo">
-    <img src="https://img.shields.io/codecov/c/github/choojs/choo/master.svg?style=flat-square"
-      alt="Test Coverage" />
+  <!-- License -->
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/license-Apache%202-blue.svg"
+      alt="License" />
   </a>
-  <!-- Downloads -->
-  <a href="https://npmjs.org/package/choo">
-    <img src="https://img.shields.io/npm/dm/choo.svg?style=flat-square"
-      alt="Downloads" />
-  </a>
-  <!-- Standard -->
-  <a href="https://standardjs.com">
-    <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"
-      alt="Standard" />
+  <!-- Gitter Chat -->
+  <a href="https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
+    <img src="https://badges.gitter.im/Join%20Chat.svg"
+      alt="Gitter Chat" />
   </a>
 </div>
 
@@ -56,12 +51,8 @@
       Ecosystem
     </a>
     <span> | </span>
-    <!-- <a href="https://github.com/trainyard/choo-cli"> -->
-    <!--   CLI -->
-    <!-- </a> -->
-    <!-- <span> | </span> -->
     <a href="https://github.com/choojs/choo/blob/master/.github/CONTRIBUTING.md">
-      Contributing
+      Contribute
     </a>
     <span> | </span>
     <a href="https://webchat.freenode.net/?channels=choo">
@@ -71,9 +62,7 @@
 </div>
 
 <div align="center">
-  <sub>The little framework that could. Built with ❤︎ by
-  <a href="https://twitter.com/yoshuawuyts">Yoshua Wuyts</a> and
-  <a href="https://github.com/choojs/choo/graphs/contributors">
-    contributors
+  <sub>Powered by Capital One
+  <a href="#">
   </a>
 </div>
