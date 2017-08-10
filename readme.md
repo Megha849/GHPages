@@ -61,7 +61,7 @@
   </h2>
 </div>
 
-<div align="center">
+<div align="right">
   <sub>Powered by Capital One
   <a href="#">
   </a>
