@@ -68,6 +68,10 @@
 </div>
 
 About Hygieia
+
 Features
+
 Architecture
+
 Setup Instructions
+
