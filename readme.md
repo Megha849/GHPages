@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <h3>
+  <h2>
     <a href="https://developer.capitalone.com/opensource-projects/hygieia/">
       Homepage
     </a>
@@ -58,7 +58,7 @@
     <a href="http://www.capitalone.io/Hygieia/contact.html">
       Connect
     </a>
-  </h3>
+  </h2>
 </div>
 
 <div align="center">
