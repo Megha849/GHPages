@@ -1,7 +1,7 @@
 <h1 align="center"><img width="650" src="/images/hygieia_b.png"></h1>
 
 <div align="center">
-  <strong>Hygieia is AWESOME!</strong>
+  <strong>Pronunciation: _hi-gee-ya_ (Origin: Greek)</strong>
 </div>
 <div align="center">
   A single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline.
