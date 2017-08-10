@@ -39,24 +39,24 @@
 
 <div align="center">
   <h3>
-    <a href="https://choo.io">
-      Website
+    <a href="https://developer.capitalone.com/opensource-projects/hygieia/">
+      Homepage
     </a>
     <span> | </span>
-    <a href="https://github.com/choojs/choo-handbook">
-      Handbook
+    <a href="#">
+      Setup Instructions
     </a>
     <span> | </span>
-    <a href="https://github.com/YerkoPalma/awesome-choo">
-      Ecosystem
+    <a href="#">
+      Snapshots
     </a>
     <span> | </span>
-    <a href="https://github.com/choojs/choo/blob/master/.github/CONTRIBUTING.md">
+    <a href="#">
       Contribute
     </a>
     <span> | </span>
-    <a href="https://webchat.freenode.net/?channels=choo">
-      Chat
+    <a href="http://www.capitalone.io/Hygieia/contact.html">
+      Connect
     </a>
   </h3>
 </div>
