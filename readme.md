@@ -43,10 +43,10 @@
       Homepage
     </a>
     <span> | </span>
-    <a href="#">
+    <!--<a href="#">
       Setup Hygieia
     </a>
-    <span> | </span>
+    <span> | </span> -->
     <a href="#">
       Snapshots
     </a>
@@ -66,3 +66,8 @@
   <a href="#">
   </a>
 </div>
+
+About Hygieia
+Features
+Architecture
+Setup Instructions
