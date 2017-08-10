@@ -1,4 +1,4 @@
-<h1 align="center">Hygieia</h1>
+<h1 align="center"><img width="650" src="/images/hygieia_b.png"></h1>
 
 <div align="center">
   <strong>Hygieia is AWESOME!</strong>
