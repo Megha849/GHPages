@@ -42,7 +42,7 @@
     <a href="https://developer.capitalone.com/opensource-projects/hygieia/">
       <img src="./images/Homepage.PNG" alt="Homepage" width="100">
     </a>
-    <span>| </span>
+    <span>|</span>
     <!--<a href="#">
       Setup Hygieia
     </a>
