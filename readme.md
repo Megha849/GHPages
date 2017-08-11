@@ -40,7 +40,7 @@
 <div align="center">
   <h2>
     <a href="https://developer.capitalone.com/opensource-projects/hygieia/">
-      <img src="./images/Homepage.PNG" alt="Homepage" width="100">
+      <img src="./images/Homepage.PNG" alt="Homepage" width="100" align="center">
     </a>
     <span>|</span>
     <!--<a href="#">
@@ -48,15 +48,15 @@
     </a>
     <span> | </span> -->
     <a href="#">
-      Snapshots
+      <img src="./images/Snapshot.PNG" alt="Snapshot" width="100" align="center">
     </a>
-    <span> | </span>
+    <span>|</span>
     <a href="#">
-      Contribute
+      <img src="./images/Contribute.PNG" alt="Contribute" width="100" align="center">
     </a>
-    <span> | </span>
+    <span>|</span>
     <a href="http://www.capitalone.io/Hygieia/contact.html">
-      Connect
+      <img src="./images/Connect.PNG" alt="Connect" width="100" align="center">
     </a>
   </h2>
 </div>
@@ -71,7 +71,13 @@ About Hygieia
 
 Features
 
+Objectives
+
 Architecture
 
-Setup Instructions
+Setup Hygieia
+
+Dashboard Views
+
+
 
