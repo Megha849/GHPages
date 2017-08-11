@@ -40,7 +40,7 @@
 <div align="center">
   <h2>
     <a href="https://developer.capitalone.com/opensource-projects/hygieia/">
-      Homepage
+      <img src="./images/Homepage.PNG">
     </a>
     <span> | </span>
     <!--<a href="#">
