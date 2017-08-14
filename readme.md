@@ -66,19 +66,53 @@
   <a href="#">
   </a>
 </div>
+<style>
+#services-list, #services-list p, #services-list h3 {
+list-style: none;
+margin:0; padding:0;
+}
 
-<div class="media">
-                <div class="pull-left">
-                    <span class="fa-stack fa-2x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <h4 class="media-heading">Service One</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                </div>
-            </div>
+#services-list > li{
+  float:left;
+  margin-right: 20px;
+  width: 130px;
+}
+
+#services-list > li > .image{
+  display:block;
+  float:left;
+  margin-right:10px;
+}
+
+/*
+this instructions are to force the dimensions of image and its container <a>
+*/
+#services-list > li > .image,
+#services-list > li > .image > img{
+  width:24px; height:24px;
+}
+
+</style>
+<ul id="services-list">
+<li>
+  <a href="https://www.google.com" class="image">
+    <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" alt="Facebook Icon" />
+  </a>
+  <div class="content">
+    <h3>Header</h3>
+    <p>text goes here</p>
+  </div>
+</li>
+<li>
+  <a href="https://www.google.com" class="image">
+    <img src="http://cdn1.iconfinder.com/data/icons/socialmediaicons_v120/24/facebook.png" alt="Facebook Icon" />
+  </a>
+  <div class="content">
+  <h3>Header</h3>
+  <p>text goes here</p>
+  </div>
+</li>
+</ul>
 
 About Hygieia
 
