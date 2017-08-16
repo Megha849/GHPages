@@ -20,7 +20,6 @@
   <!-- License -->
   <a href="https://www.apache.org/licenses/LICENSE-2.0"></a><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"
       alt="License"/></a>
-  
   <!-- Gitter Chat -->
   <a href="https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg"
       alt="Gitter Chat"/></a>
