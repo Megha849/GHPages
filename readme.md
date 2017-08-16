@@ -28,20 +28,17 @@
 
 <div align="center">
   <h2>
-    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" float="left" border="0">
-    </a>
+    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" float="left" border="0"></a>
     <span>|</span>
     <!--<a href="#">
       Setup Hygieia
     </a>
     <span> | </span> -->
-    <a href="#"><img src="./images/Snapshot.PNG" alt="Snapshot" width="125" align="center">
-    </a>
+    <a href="#"><img src="./images/Snapshot.PNG" alt="Snapshot" width="125" align="center"></a>
     <span>|</span>
-    <a href="#"><img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center">
-    </a>
+    <a href="#"><img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center"></a>
     <span>|</span>
-    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Connect.PNG" alt="Connect" width="125" align="center">       </a>
+    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Connect.PNG" alt="Connect" width="125" align="center"></a>
   </h2>
 </div>
 <style>
