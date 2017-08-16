@@ -40,7 +40,7 @@
 <div align="center">
   <h2>
     <a href="#">
-      <img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center">
+      <img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
     </a>
     <span>|</span>
     <!--<a href="#">
