@@ -49,7 +49,7 @@
 <ul id="services-list">
 <li>
   <a href="https://www.google.com" class="image">
-    <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" alt="Facebook Icon" />
+    <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" />
   </a>
   <div class="content">
     <h3>Header</h3>
@@ -58,7 +58,7 @@
 </li>
 <li>
   <a href="https://www.google.com" class="image">
-    <img src="http://cdn1.iconfinder.com/data/icons/socialmediaicons_v120/24/facebook.png" alt="Facebook Icon" />
+    <img src="http://cdn1.iconfinder.com/data/icons/socialmediaicons_v120/24/facebook.png" />
   </a>
   <div class="content">
   <h3>Header</h3>
