@@ -3,9 +3,9 @@
 <div align="center">
   <strong>Pronunciation: hi-gee-ya (Origin: Greek)</strong>
 </div>
-<div align="center">
+<!--<div align="center">
   A single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline.
-</div>
+</div> -->
 
 <br />
 
