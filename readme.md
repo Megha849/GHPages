@@ -39,9 +39,7 @@
 
 <div align="center">
   <h2>
-    <a style="text-decoration:none;" href="http://www.capitalone.io/Hygieia/getting_started.html">
-      <img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" float="left" border="0" text-decoration="none">
-    </a>
+    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" float="left" border="0"></a>
     <span>|</span>
     <!--<a href="#">
       Setup Hygieia
