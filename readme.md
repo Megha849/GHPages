@@ -26,10 +26,10 @@
       alt="Maven Central"/>
   </a>
   <!-- License -->
-  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+  <a href="https://www.apache.org/licenses/LICENSE-2.0"></a>
     <img src="https://img.shields.io/badge/license-Apache%202-blue.svg"
       alt="License"/>
-  </a>
+  
   <!-- Gitter Chat -->
   <a href="https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
     <img src="https://badges.gitter.im/Join%20Chat.svg"
@@ -39,8 +39,8 @@
 
 <div align="center">
   <h2>
-    <a href="https://developer.capitalone.com/opensource-projects/hygieia/">
-      <img src="./images/Homepage.PNG" alt="Homepage" width="100" align="center">
+    <a href="#">
+      <img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center">
     </a>
     <span>|</span>
     <!--<a href="#">
@@ -48,15 +48,15 @@
     </a>
     <span> | </span> -->
     <a href="#">
-      <img src="./images/Snapshot.PNG" alt="Snapshot" width="100" align="center">
+      <img src="./images/Snapshot.PNG" alt="Snapshot" width="125" align="center">
     </a>
     <span>|</span>
     <a href="#">
-      <img src="./images/Contribute.PNG" alt="Contribute" width="100" align="center">
+      <img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center">
     </a>
     <span>|</span>
     <a href="http://www.capitalone.io/Hygieia/contact.html">
-      <img src="./images/Connect.PNG" alt="Connect" width="100" align="center">
+      <img src="./images/Connect.PNG" alt="Connect" width="125" align="center">
     </a>
   </h2>
 </div>
