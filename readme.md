@@ -41,39 +41,13 @@
     <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Connect.PNG" alt="Connect" width="125" align="center"></a>
   </h2>
 </div>
-<style>
+
 <div align="right">
   <sub>Powered by Capital One
   <a href="#">
   </a>
 </div>
-<style>
-#services-list, #services-list p, #services-list h3 {
-list-style: none;
-margin:0; padding:0;
-}
 
-#services-list > li{
-  float:left;
-  margin-right: 20px;
-  width: 130px;
-}
-
-#services-list > li > .image{
-  display:block;
-  float:left;
-  margin-right:10px;
-}
-
-/*
-this instructions are to force the dimensions of image and its container <a>
-*/
-#services-list > li > .image,
-#services-list > li > .image > img{
-  width:24px; height:24px;
-}
-
-</style>
 <ul id="services-list">
 <li>
   <a href="https://www.google.com" class="image">
