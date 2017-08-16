@@ -11,51 +11,37 @@
 
 <div align="center">
   <!-- Build Status -->
-  <a href="https://travis-ci.org/capitalone/Hygieia.svg?branch=master">
-    <img src="https://travis-ci.org/capitalone/Hygieia.svg?branch=master"
-      alt="Build Status"/>
-  </a>
+  <a href="https://travis-ci.org/capitalone/Hygieia.svg?branch=master"><img src="https://travis-ci.org/capitalone/Hygieia.svg?branch=master" alt="Build Status"/></a>
   <!-- Codacy Badge -->
-  <a href="https://www.codacy.com/app/amit-mawkin/Hygieia">
-    <img src="https://api.codacy.com/project/badge/grade/de1a2a557f8e458e9a959be8c2e7fcba"
-      alt="Codacy Badge"/>
-  </a>
+  <a href="https://www.codacy.com/app/amit-mawkin/Hygieia"><img src="https://api.codacy.com/project/badge/grade/de1a2a557f8e458e9a959be8c2e7fcba"
+      alt="Codacy Badge"/></a>
   <!-- Maven Central -->
-  <a href="http://search.maven.org/#search%7Cga%7C1%7Ccapitalone">
-    <img src="https://img.shields.io/maven-central/v/com.capitalone.dashboard/Hygieia.svg"
-      alt="Maven Central"/>
-  </a>
+  <a href="http://search.maven.org/#search%7Cga%7C1%7Ccapitalone"><img src="https://img.shields.io/maven-central/v/com.capitalone.dashboard/Hygieia.svg" alt="Maven Central"/></a>
   <!-- License -->
-  <a href="https://www.apache.org/licenses/LICENSE-2.0"></a>
-    <img src="https://img.shields.io/badge/license-Apache%202-blue.svg"
-      alt="License"/>
+  <a href="https://www.apache.org/licenses/LICENSE-2.0"></a><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"
+      alt="License"/></a>
   
   <!-- Gitter Chat -->
-  <a href="https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
-    <img src="https://badges.gitter.im/Join%20Chat.svg"
-      alt="Gitter Chat"/>
-  </a>
+  <a href="https://gitter.im/capitalone/Hygieia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg"
+      alt="Gitter Chat"/></a>
 </div>
 
 <div align="center">
   <h2>
-    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" float="left" border="0"></a>
+    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center" float="left" border="0">
+    </a>
     <span>|</span>
     <!--<a href="#">
       Setup Hygieia
     </a>
     <span> | </span> -->
-    <a href="#">
-      <img src="./images/Snapshot.PNG" alt="Snapshot" width="125" align="center">
+    <a href="#"><img src="./images/Snapshot.PNG" alt="Snapshot" width="125" align="center">
     </a>
     <span>|</span>
-    <a href="#">
-      <img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center">
+    <a href="#"><img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center">
     </a>
     <span>|</span>
-    <a href="http://www.capitalone.io/Hygieia/contact.html">
-      <img src="./images/Connect.PNG" alt="Connect" width="125" align="center">
-    </a>
+    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Connect.PNG" alt="Connect" width="125" align="center">       </a>
   </h2>
 </div>
 <style>
