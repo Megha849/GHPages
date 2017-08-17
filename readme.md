@@ -67,11 +67,11 @@
 </li>
 </ul>-->
 <div align="center">
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="150"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="right" width="150"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="500"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="right" width="500"/></a>
 </div> 
 <div>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="150"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="500"/></a>
 </div>
 
 About Hygieia
