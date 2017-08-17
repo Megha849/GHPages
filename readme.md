@@ -67,24 +67,10 @@
 </li>
 </ul>-->
 <div align="center">
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="400"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="right" width="400"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="450"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="right" width="450"/></a>
 </div> 
 <div align="center">
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="400"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left" width="450"/></a>
 </div>
-
-About Hygieia
-
-Features
-
-Objectives
-
-Architecture
-
-Setup Hygieia
-
-Dashboard Views
-
-
 
