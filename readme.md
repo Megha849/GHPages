@@ -46,7 +46,7 @@
   </a>
 </div>
 
-<ul id="services-list">
+<!--<ul id="services-list">
 <li>
   <a href="https://www.google.com" class="image">
     <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" />
@@ -65,7 +65,14 @@
   <p>text goes here</p>
   </div>
 </li>
-</ul>
+</ul>-->
+<div>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="right"/></a>
+</div> 
+<div>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/About_Icon.PNG" alt="About Icon" align="left"/></a>
+</div>
 
 About Hygieia
 
