@@ -1,4 +1,4 @@
-<h1 align="center"><img width="550" src="/images/hygieia_b.png"></h1>
+<h1 align="center"><img width="500" src="/images/hygieia_b.png"></h1>
 
 <div align="center">
   <strong>Pronunciation: hi-gee-ya (Origin: Greek)</strong>
