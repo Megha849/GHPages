@@ -1,4 +1,4 @@
-<h1 align="center"><img width="450" src="/images/hygieia_b.png"> <img width="50" align="right" src="/images/Rookies_Award_Badge.png> </h1>
+<h1 align="center"><img width="450" src="/images/hygieia_b.png"> <img width="50" align="right" src="/images/Rookies_Award_Badge.png"></h1>
 
 <div align="center">
   <strong>Pronunciation: hi-gee-ya (Origin: Greek)</strong>
