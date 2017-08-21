@@ -36,11 +36,6 @@
   </h2>
 </div>
 
-<div align="right">
-  <sub>Powered by Capital One
-  <a href="#">
-  </a>
-</div>
 <br />
 <!--<ul id="services-list">
 <li>
