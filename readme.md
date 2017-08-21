@@ -3,10 +3,6 @@
 <div align="center">
   <strong>Pronunciation: hi-gee-ya (Origin: Greek)</strong>
 </div>
-<!--<div align="center"> 
-  A single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline.
-</div> -->
-
 <br />
 
 <div align="center">
@@ -45,7 +41,7 @@
   <a href="#">
   </a>
 </div>
-
+<br />
 <!--<ul id="services-list">
 <li>
   <a href="https://www.google.com" class="image">
@@ -67,13 +63,12 @@
 </li>
 </ul>-->
 <div align="center">
-  <h2>
-<a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/AboutHygieia.PNG" alt="About Icon" align="left" width="350"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="right" width="350"/></a>
+  
+<a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/AboutHygieia.PNG" alt="About Icon" align="center" width="350"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="center" width="350"/></a>
 
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="left" width="350"/></a>
-  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="right" width="350"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="center" width="350"/></a>
+  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="center" width="350"/></a>
  
-</h2>
 </div>
 
