@@ -66,6 +66,7 @@
   </div>
 </li>
 </ul>-->
+<div>
 <div align="center">
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/AboutHygieia.PNG" alt="About Icon" align="left" width="350"/></a>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="right" width="350"/></a>
@@ -82,3 +83,5 @@
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="left" width="350"/></a>
   <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="right" width="350"/></a>
 </div>
+</div>
+
