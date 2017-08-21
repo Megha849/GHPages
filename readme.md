@@ -59,13 +59,13 @@
 </ul>-->
 <div align="center">
   
-<a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/AboutHygieia.PNG" alt="About Icon" align="center" width="370"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="center" width="370"/></a>
+<a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/AboutHygieia.PNG" alt="About Icon" align="center" width="380"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="center" width="380"/></a>
 
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="center" width="370"/></a>
-  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Framework.PNG" alt="About Icon" align="center" width="370"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="center" width="380"/></a>
+  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Framework.PNG" alt="About Icon" align="center" width="380"/></a>
  
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="center" width="370"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/TopContributors.PNG" alt="About Icon" align="center" width="370"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="center" width="380"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/TopContributors.PNG" alt="About Icon" align="center" width="380"/></a>
 </div>
 
