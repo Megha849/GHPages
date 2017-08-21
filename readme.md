@@ -1,9 +1,9 @@
-<h1 align="center"><img width="450" src="/images/hygieia_b.png"> <img width="50" align="right" src="/images/Rookies_Award_Badge.png"></h1>
+<h1 align="center"><img width="450" src="/images/hygieia_b.png"> <a href="https://www.blackducksoftware.com/2015-open-source-rookies"><img width="100" align="right" src="/images/Rookies_Award_Badge.png"></a></h1>
 
 <div align="center">
   <strong>Pronunciation: hi-gee-ya (Origin: Greek)</strong>
 </div>
-<!--<div align="center">
+<!--<div align="center"> 
   A single, configurable, easy-to-use dashboard to visualize near real-time status of the entire delivery pipeline.
 </div> -->
 
