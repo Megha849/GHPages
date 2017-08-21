@@ -75,4 +75,4 @@
   <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="right" width="350"/></a>
 
 <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Collectors.PNG" alt="About Icon" align="left" width="350"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Framework.PNG" alt="About Icon" align="right" width="350"/></a>
+ 
