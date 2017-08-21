@@ -28,11 +28,11 @@
       Setup Hygieia
     </a>
     <span> | </span> -->
-    <a href="#"><img src="./images/Snapshot.PNG" alt="Snapshot" width="125" align="center"></a>
+    <a href="#"><img src="./images/Screenshots.PNG" alt="Screenshots" width="125" align="center"></a>
     <span>|</span>
     <a href="#"><img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center"></a>
     <span>|</span>
-    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Connect.PNG" alt="Connect" width="125" align="center"></a>
+    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Contact.PNG" alt="Connect" width="125" align="center"></a>
   </h2>
 </div>
 
