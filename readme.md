@@ -70,6 +70,7 @@
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/AboutHygieia.PNG" alt="About Icon" align="left" width="420"/></a>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Video.PNG" alt="About Icon" align="right" width="420"/></a>
 </div> 
+<br />
 <div align="center">
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/AboutHygieia.PNG" alt="About Icon" align="left" width="420"/></a>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Video.PNG" alt="About Icon" align="right" width="420"/></a>
