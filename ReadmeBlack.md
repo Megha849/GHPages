@@ -59,8 +59,7 @@
 </ul>-->
 <div align="center">
   
-<a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" align="center" width="400"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="About Icon" align="center" width="400"/></a>
+<a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" align="center" width="400"/></a><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="About Icon" align="center" width="400"/></a>
 
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="About Icon" align="center" width="400"/></a>
   <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="About Icon" align="center" width="400"/></a>
