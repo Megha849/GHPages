@@ -22,17 +22,17 @@
 
 <div align="center">
   <h2>
-    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./images/Homepage.PNG" alt="Homepage" width="125" align="center"></a>
+    <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./newimages/documentation.PNG" alt="Documentation" width="125" align="center"></a>
     <span>|</span>
     <!--<a href="#">
       Setup Hygieia
     </a>
     <span> | </span> -->
-    <a href="#"><img src="./images/Screenshots.PNG" alt="Screenshots" width="125" align="center"></a>
+    <a href="#"><img src="./newimages/Screenshots.PNG" alt="Screenshots" width="125" align="center"></a>
     <span>|</span>
-    <a href="#"><img src="./images/Contribute.PNG" alt="Contribute" width="125" align="center"></a>
+    <a href="#"><img src="./newimages/Contribute.PNG" alt="Contribute" width="125" align="center"></a>
     <span>|</span>
-    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./images/Contact.PNG" alt="Connect" width="125" align="center"></a>
+    <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./newimages/Contact.PNG" alt="Contact" width="125" align="center"></a>
   </h2>
 </div>
 
@@ -63,9 +63,9 @@
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="center" width="350"/></a>
 
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="center" width="350"/></a>
-  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="center" width="350"/></a>
+  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Framework.PNG" alt="About Icon" align="center" width="350"/></a>
  
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Collectors.PNG" alt="About Icon" align="center" width="350"/></a>
- <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Framework.PNG" alt="About Icon" align="center" width="350"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="center" width="350"/></a>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/TopContributors.PNG" alt="About Icon" align="center" width="350"/></a>
 </div>
 
