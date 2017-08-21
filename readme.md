@@ -67,14 +67,19 @@
 </li>
 </ul>-->
 
-<div align="center">
+<ul id="services-list">
+<li>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/AboutHygieia.PNG" alt="About Icon" align="left" width="350"/></a>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Video.PNG" alt="About Icon" align="right" width="350"/></a>
-
+</li>
+<li>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="left" width="350"/></a>
   <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="right" width="350"/></a>
-</div>  
-<div align="center">
-  <strong>Pronunciation: hi-gee-ya (Origin: Greek)</strong>
-</div>
+  </li>
+  <li>
+ <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Architecture.PNG" alt="About Icon" align="left" width="350"/></a>
+  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/newimages/Installation.PNG" alt="About Icon" align="right" width="350"/></a>
+  </li>
+</ul>  
+
 
