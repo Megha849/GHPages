@@ -71,6 +71,7 @@
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Video.PNG" alt="About Icon" align="right" width="420"/></a>
 </div> 
 <br />
+<br />
 <div align="center">
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/AboutHygieia.PNG" alt="About Icon" align="left" width="420"/></a>
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Video.PNG" alt="About Icon" align="right" width="420"/></a>
@@ -79,6 +80,7 @@
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Architecture.PNG" alt="About Icon" align="left" width="410"/></a>
   <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Installation.PNG" alt="About Icon" align="left" width="410"/></a>
 </div>
+
 <div align="center">
  <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Collectors.PNG" alt="About Icon" align="left" width="420"/></a>
   <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/images/Framework.PNG" alt="About Icon" align="left" width="420"/></a>
