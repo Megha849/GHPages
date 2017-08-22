@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <h2>
+  <h4>
     <a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="./newimages/Documentation.png" alt="Documentation" width="125" align="center"></a>
     <span>|</span>
     <!--<a href="#">
@@ -33,7 +33,7 @@
     <a href="#"><img src="./newimages/Contribute.png" alt="Contribute" width="125" align="center"></a>
     <span>|</span>
     <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./newimages/Contact.png" alt="Contact" width="125" align="center"></a>
-  </h2>
+  </h4>
 </div>
 
 <br />
