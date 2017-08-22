@@ -45,14 +45,14 @@
 
 <tbody>
 <tr>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" width="200"/></a></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" width="200"/></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="Architecture Icon" align="center" width="200"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" width="300"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" width="300"/></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="Architecture Icon" align="center" width="300"/></a></td>
 </tr>
 <tr>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="Framework Icon" align="center" height="175" width="200"/></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" width="200"/></a></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" width="200"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="Framework Icon" align="center" width="300"/></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" width="300"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" width="300"/></a></td>
 </tr>
 </tbody>
 </table>
