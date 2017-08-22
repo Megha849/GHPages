@@ -62,18 +62,18 @@
 <colgroup>
 <col width="33.3%" />
 <col width="33.3%" />
-<col width="33.3%" />
+<col width="33.4%" />
 </colgroup>
 <tbody>
 <tr>
-<td height="200"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" width="450"/></a></td>
-<td height="200"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" width="430"/></td>
-<td height="200"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="About Icon" align="center" width="430"/></a></td>
+<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" height="300" width="450"/></a></td>
+<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" width="430"/></td>
+<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="About Icon" align="center" width="430"/></a></td>
 </tr>
 <tr>
-<td height="200"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="About Icon" align="center" width="430"/></td>
-<td height="200"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" width="430"/></a></td>
-<td height="200"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" width="430"/></a></td>
+<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="About Icon" align="center" width="430"/></td>
+<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" width="430"/></a></td>
+<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" width="430"/></a></td>
 </tr>
 </tbody>
 </table>
