@@ -47,11 +47,11 @@
 <tr>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" height="145" width="280"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=SoNTA78j0tc"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" height="145" width="280"/></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="Architecture Icon" align="center" height="145" width="280"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/architecture.html"><img src="/blackicons/Architecture.PNG" alt="Architecture Icon" align="center" height="145" width="280"/></a></td>
 </tr>
 <tr>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="Framework Icon" align="center" height="145" width="280"/></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" height="145" width="280"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/setup.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" height="145" width="280"/></a></td>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" height="145" width="280"/></a></td>
 </tr>
 </tbody>
