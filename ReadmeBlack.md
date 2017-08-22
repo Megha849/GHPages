@@ -62,7 +62,7 @@
 <colgroup>
 <col width="33.3%" />
 <col width="33.3%" />
-<col width="33.4%" />
+<col width="33.3%" />
 </colgroup>
 <tbody>
 <tr>
