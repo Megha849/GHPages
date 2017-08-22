@@ -5,7 +5,6 @@
 <div align="center"> 
   <p>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a></p>
 </div>
-<br />
 
 <div align="center">
   <!-- Build Status -->
