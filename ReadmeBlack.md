@@ -60,20 +60,20 @@
 
 <table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
 <colgroup>
-<col width="33.3%" />
-<col width="33.3%" />
-<col width="33.3%" />
+<col width="50%" />
+<col width="50%" />
+<!--<col width="33.3%" />-->
 </colgroup>
 <tbody>
 <tr>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" /></a></td>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" height="175" width="430"/></td>
-<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="About Icon" align="center" height="175" width="430"/></a></td>
+<!--<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="About Icon" align="center" height="175" width="430"/></a></td>-->
 </tr>
 <tr>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="About Icon" align="center" height="175" width="430"/></td>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" height="175" width="430"/></a></td>
-<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" height="175" width="430"/></a></td>
+<!--<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" height="175" width="430"/></a></td>-->
 </tr>
 </tbody>
 </table>
