@@ -3,7 +3,7 @@
 <a href="https://www.blackducksoftware.com/about/news-events/releases/2015-open-source-rookies-year"><img width="55" align="right" hspace="20" src="/images/Rookies_Award_Badge.png"></a></h1>
 
 <div align="center"> 
-  <p markdown="span">**Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)**</a></p>
+  <p><b>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a></b></p>
 </div>
 
 <div align="center">
