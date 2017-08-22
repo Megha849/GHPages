@@ -35,30 +35,11 @@
     <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./newimages/Contact.png" alt="Contact" width="125" align="center"></a>
   </h2>
 </div>
-<!--<ul id="services-list">
-<li>
-  <a href="https://www.google.com" class="image">
-    <img src="http://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_square-24.png" />
-  </a>
-  <div class="content">
-    <h3>Header</h3>
-    <p>text goes here</p>
-  </div>
-</li>
-<li>
-  <a href="https://www.google.com" class="image">
-    <img src="http://cdn1.iconfinder.com/data/icons/socialmediaicons_v120/24/facebook.png" />
-  </a>
-  <div class="content">
-  <h3>Header</h3>
-  <p>text goes here</p>
-  </div>
-</li>
-</ul>-->
+
 <table>
 <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="100" />
+<col width="100" />
 </colgroup>
 
 <tbody>
@@ -68,8 +49,7 @@
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
+<td markdown="span">Some more descriptive text.</td>
 </tr>
 </tbody>
 </table>
