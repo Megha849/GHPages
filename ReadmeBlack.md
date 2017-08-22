@@ -1,6 +1,6 @@
 <h1 align="center">
-<img width="350" align="middle" src="/images/hygieia_b.png"> 
-<a href="https://www.blackducksoftware.com/about/news-events/releases/2015-open-source-rookies-year"><img width="70" align="right" align="top" src="/images/Rookies_Award_Badge.png"></a></h1>
+<img width="350" align="left" src="/images/hygieia_b.png"> 
+<a href="https://www.blackducksoftware.com/about/news-events/releases/2015-open-source-rookies-year"><img width="70" align="right" hspace="20" src="/images/Rookies_Award_Badge.png"></a></h1>
 
 <div align="center"> 
   <strong>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a></strong>
