@@ -45,7 +45,7 @@
 
 <tbody>
 <tr>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" height="160" width="300"/></a></td>
+<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" height="155" width="280"/></a></td>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" width="300"/></td>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="Architecture Icon" align="center" width="300"/></a></td>
 </tr>
