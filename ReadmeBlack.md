@@ -1,10 +1,10 @@
-<h3 align="center">
+<div align="center">
 <img width="225" src="/images/hygieia_b.png"> 
 <a href="https://www.blackducksoftware.com/about/news-events/releases/2015-open-source-rookies-year"><img width="55" align="right" hspace="20" src="/images/Rookies_Award_Badge.png"></a>
-<sub> <b>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a>
-</h3>
+<sub align="center"> <b>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a>
+</div>
 <div align="center"> 
- <sub> <b>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a> 
+ <p> <b>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a> </p>
 </div>
 
 <div align="center">
