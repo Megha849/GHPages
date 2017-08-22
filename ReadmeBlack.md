@@ -52,7 +52,7 @@
 <tr>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="Framework Icon" align="center" height="145" width="280"/></td>
 <td><a href="http://www.capitalone.io/Hygieia/setup.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" height="145" width="280"/></a></td>
-<td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" height="145" width="280"/></a></td>
+<td><a href="https://github.com/capitalone/Hygieia/graphs/contributors"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" height="145" width="280"/></a></td>
 </tr>
 </tbody>
 </table>
