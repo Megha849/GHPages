@@ -59,7 +59,7 @@
 </li>
 </ul>-->
 
-<table>
+<table border="0">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
