@@ -1,5 +1,5 @@
 <div align="center">
-<img width="250" src="/images/hygieia_b.png"> 
+<img width="250" align="top" src="/images/hygieia_b.png"> 
 </div>
 <div align="center"> 
  <p> <b>Pronunciation: hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia">(Origin: Greek)</a> </p>
