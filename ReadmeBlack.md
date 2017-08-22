@@ -35,8 +35,6 @@
     <a href="http://www.capitalone.io/Hygieia/contact.html"><img src="./newimages/Contact.png" alt="Contact" width="125" align="center"></a>
   </h2>
 </div>
-
-<br />
 <!--<ul id="services-list">
 <li>
   <a href="https://www.google.com" class="image">
@@ -57,26 +55,44 @@
   </div>
 </li>
 </ul>-->
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
 
-<table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
+<tbody>
+<tr>
+<td> First Column</td>
+<td>Text</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
+
+<!--<table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
 <!--<col width="33.3%" />-->
-</colgroup>
+<!--</colgroup>
 <tbody>
 <tr>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/About.PNG" alt="About Icon" height="175" width="200"/></a></td>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" height="175" width="200"/></td>
 <!--<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Architecture.PNG" alt="About Icon" align="center" height="175" width="430"/></a></td>-->
-</tr>
+<!--</tr>
 <tr>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Framework.PNG" alt="About Icon" align="center" height="175" width="200"/></td>
 <td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/Installation.PNG" alt="Install Icon" align="center" height="175" width="200"/></a></td>
 <!--<td height="175"><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="/blackicons/TopContributors.PNG" alt="Contributors Icon" align="center" height="175" width="430"/></a></td>-->
-</tr>
+<!--</tr>
 </tbody>
-</table>
+</table>-->
 
 <!--<div align="center">
   
