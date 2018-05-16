@@ -44,6 +44,9 @@
 </colgroup>
 
 <tbody>
+ <tr>
+<td><a href="https://github.com/Hygieia/ExecDashboard"><img src="https://github.com/Megha849/GHPages/blob/gh-pages/images/Hygieia3.png" alt="About Icon" height="145" width="840"/></a></td>
+</tr>
 <tr>
 <td><a href="http://www.capitalone.io/Hygieia/getting_started.html"><img src="https://github.com/Megha849/GHPages/blob/gh-pages/images/About.PNG" alt="About Icon" height="145" width="280"/></a></td>
 <td><a href="https://www.youtube.com/watch?v=SoNTA78j0tc"><img src="/blackicons/Video.PNG" alt="Video Icon" align="center" height="145" width="280"/></td>
