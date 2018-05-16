@@ -43,7 +43,7 @@
  
 <tbody>
 <tr>
-<td><a href="https://github.com/Hygieia/ExecDashboard"><img src="https://github.com/Megha849/GHPages/blob/gh-pages/images/Hygieia3.png" alt="About Icon" height="145" width="840"/></a></td>
+<td><a href="https://github.com/Hygieia/ExecDashboard"><img src="https://github.com/Megha849/GHPages/blob/gh-pages/images/Hygieia3.png" alt="About Icon" height="145" width="940"/></a></td>
 </tr>
 </tbody>
 </table>
