@@ -3,6 +3,10 @@
 </div>
 
 <div align="center"> 
+ <p> <b>Pronunciation: <i>hi-gee-ya <a href="https://en.wikipedia.org/wiki/Hygieia"></i>(Origin: Greek)</a> </p>
+</div>
+
+<div align="center"> 
  <h2> Hygieia EXECUTIVE</h2>
 </div>
 
