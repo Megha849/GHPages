@@ -15,9 +15,9 @@
 
 <tbody>
 <tr>
-<td><a href="https://hygieia.github.io/ExecDashboard/Introduction.html"><img src="/images/About.png" alt="About Icon" height="145" width="280"/></a></td>
-<td><a href="https://hygieia.github.io/ExecDashboard/EXECDatabase_Setup.html"><img src="/images/Installation.png" alt="Video Icon" align="center" height="145" width="280"/></td>
-<td><a href="https://hygieia.github.io/ExecDashboard/Create_Widget.html"><img src="/images/Contribute.png" alt="Architecture Icon" align="center" height="145" width="280"/></a></td>
+<td><a href="https://hygieia.github.io/ExecDashboard/Introduction.html"><img src="/images/About.png" alt="About Icon" height="145" width="300"/></a></td>
+<td><a href="https://hygieia.github.io/ExecDashboard/EXECDatabase_Setup.html"><img src="/images/Installation.png" alt="Video Icon" align="center" height="145" width="300"/></td>
+<td><a href="https://hygieia.github.io/ExecDashboard/Create_Widget.html"><img src="/images/Contribute.png" alt="Architecture Icon" align="center" height="145" width="300"/></a></td>
 </tr>
 </tbody>
 </table>
