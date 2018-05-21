@@ -1,5 +1,10 @@
 <div align="center">
 <img width="250" align="top" src="/images/HygieiaLogo_RGB.png">
+</div>
+
+<div align="center"> 
+ <p> <b>Hygieia EXECUTIVE</b> </p>
+</div>
 
 <table>
 <colgroup>
