@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
- <p> <b>   Hygieia EXECUTIVE</b> </p>
+ <h2> Hygieia EXECUTIVE</h2>
 </div>
 
 <table>
